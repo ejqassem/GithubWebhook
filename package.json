@@ -1,0 +1,23 @@
+{
+  "name": "githubwebhook",
+  "version": "1.0.0",
+  "description": "Repository for custom CI using github-webhook-handler npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejqassem/GithubWebhook.git"
+  },
+  "author": "Eyad Qassem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejqassem/GithubWebhook/issues"
+  },
+  "homepage": "https://github.com/ejqassem/GithubWebhook#readme",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0",
+    "shelljs": "^0.8.3"
+  }
+}

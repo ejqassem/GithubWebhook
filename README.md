@@ -1,2 +1,2 @@
 # GithubWebhook
-Repository for custom CI using github-webhook npm package
+Repository for custom CI using github-webhook-handler npm package
